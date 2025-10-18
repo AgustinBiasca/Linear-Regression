@@ -18,7 +18,7 @@ Este repositorio contiene varios estudios de caso enfocados en la aplicación de
     - 
 
 - **Análisis de Variables Automotrices (RLM):**
-    - **Logro Principal:** Aplicación de RLM sobre el Auto Dataset para estudiar la relación entre el peso, la potencia y la eficiencia de combustible. Elegi este dataset ya tiene la **particualridad de no ser estrictamente lineal** (forma de U y patron en los residuos) y usamos la **regresion polinomica** para resolverlo
+    - **Logro Principal:** Aplicación de RLM sobre el Auto Dataset para estudiar la relación entre el peso, la potencia y la eficiencia de combustible. Elegi este dataset ya tiene la **particualridad de no ser estrictamente lineal** (forma de U y patron en los residuos) y usamos una **regresion polinomica** para resolverlo
     - **Archivo:** [`Autodataset LinearRegression.ipynb`](./Autodataset%20LinearRegression.ipynb)
 
 ***

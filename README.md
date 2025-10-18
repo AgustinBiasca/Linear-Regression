@@ -8,7 +8,7 @@ Este repositorio contiene varios estudios de caso enfocados en la aplicación de
     - **Archivo:** [`advertising.ipynb`](./advertising.ipynb)
  
 - **Regresión Lineal Simple (Boston):**
-    - **Logro Principal:** Demostración de la inferencia estadística básica con un único predictor, sentando las bases para modelos más complejos.
+    - **Logro Principal:** Demostración de la inferencia estadística básica con un único predictor, sentando las bases para modelos más complejos. Se hace hincapie en lo conceptual no en los resultados del modelo. 
     - **Archivo:** [`Boston_SIMPLE_Linear_Regression.ipynb`](./Boston_SIMPLE_Linear_Regression.ipynb)
 
     
